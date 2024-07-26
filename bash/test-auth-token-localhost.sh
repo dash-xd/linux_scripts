@@ -12,4 +12,4 @@ echo "Calling /id-token route..."
 http POST "$BASE_URL/id-token"
 
 echo "Calling /access-token route..."
-http POST "$BASE_URL/access-token"
+http POST "$BASE_URL/access-token
